@@ -5,6 +5,7 @@ export LANG=en_US.UTF-8
 
 alias ls='ls -G'
 alias c='code .'
+alias r='rails'
 
 export EDITOR='vim'
 

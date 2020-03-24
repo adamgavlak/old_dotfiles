@@ -5,20 +5,21 @@ tap 'homebrew/bundle'
 # Casks
 
 cask '1Password'
-cask 'tunnelblick'
 
 cask 'firefox'
-
-cask 'whatsapp'
 cask 'signal'
 
 cask 'visual-studio-code'
 cask 'sourcetree'
 cask 'iterm2'
 cask 'maccy'
+cask 'transmit'
+
+cask 'sketch'
+cask 'adapter'
 
 cask 'docker'
-cask 'transmit'
+cask 'postgres'
 
 cask 'daisydisk'
 cask 'the-unarchiver'
